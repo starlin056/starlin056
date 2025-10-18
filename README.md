@@ -39,13 +39,17 @@
 
 ## 🚀 Proyectos Destacados
 
+A continuación algunos de los proyectos en los que he trabajado, enfocados en soluciones reales para negocios y automatización de procesos 👨‍💻✨
+
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |----------|-------------|-------------|-------------|
-| 🍽️ RESTAURANT-DORADO | Sistema completo de gestión de restaurante con frontend y backend integrados. | PHP, MySQL, JS | [Ver proyecto](https://github.com/starlin056/RESTAURANT-DORADO) |
-| 🧾 Sistema de Monitoreo | Plataforma para registro de incidencias con reportes estadísticos en tiempo real. | PHP, Bootstrap, MySQL | [Ver repositorio](https://github.com/starlin056) |
-| 🖥️ Kiosko de Turnos | Pantalla de autogestión y display de turnos en tiempo real para atención al cliente. | JS, PHP, HTML/CSS | [Ver repositorio](https://github.com/starlin056) |
+| 🍽️ **RESTAURANT-DORADO** | Sistema integral para la gestión de restaurantes: pedidos, facturación y control de inventario. Incluye módulos de administración y visualización dinámica. | PHP · MySQL · JavaScript | [Ver proyecto](https://github.com/starlin056/RESTAURANT-DORADO) |
+| 🖥️ **EasyTurnos** | Plataforma de gestión de turnos con pantallas de kiosko y display de llamados en tiempo real. Ideal para mejorar la atención al cliente en puntos de servicio. | PHP · JavaScript · HTML/CSS | [Ver repositorio](https://github.com/starlin056/easyturnos) |
+| 🧾 **Punto de Venta** | Sistema de punto de venta moderno, pensado para pequeños y medianos negocios. Incluye control de caja, inventario y reportes. | PHP · MySQL · Bootstrap | [Ver repositorio](https://github.com/starlin056/punto-de-venta) |
+| 🧮 **RestaurantPOS** | Plataforma POS especializada para restaurantes. Permite gestionar mesas, comandas, ventas y reportes de forma eficiente y en tiempo real. | PHP · MySQL · JavaScript | [Ver repositorio](https://github.com/starlin056/RestaurantPOS) |
 
-> 📌 Puedes ver más proyectos en mi [perfil de GitHub](https://github.com/starlin056?tab=repositories).
+> 📌 Explora más proyectos y contribuciones en mi [perfil de GitHub](https://github.com/starlin056?tab=repositories).
+
 
 ---
 
