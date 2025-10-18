@@ -39,14 +39,14 @@
 
 ## 🚀 Proyectos Destacados
 
-A continuación algunos de los proyectos en los que he trabajado, enfocados en soluciones reales para negocios y automatización de procesos 👨‍💻✨
+Estos son algunos de mis proyectos más importantes, desarrollados con un enfoque en **automatización de procesos**, **usabilidad** y **rendimiento**. Varios de ellos están en producción y utilizados por negocios reales 🧑‍💻💼
 
-| Proyecto | Descripción | Tecnologías | Repositorio |
-|----------|-------------|-------------|-------------|
-| 🍽️ **RESTAURANT-DORADO** | Sistema integral para la gestión de restaurantes: pedidos, facturación y control de inventario. Incluye módulos de administración y visualización dinámica. | PHP · MySQL · JavaScript | [Ver proyecto](https://github.com/starlin056/RESTAURANT-DORADO) |
-| 🖥️ **EasyTurnos** | Plataforma de gestión de turnos con pantallas de kiosko y display de llamados en tiempo real. Ideal para mejorar la atención al cliente en puntos de servicio. | PHP · JavaScript · HTML/CSS | [Ver repositorio](https://github.com/starlin056/easyturnos) |
-| 🧾 **Punto de Venta** | Sistema de punto de venta moderno, pensado para pequeños y medianos negocios. Incluye control de caja, inventario y reportes. | PHP · MySQL · Bootstrap | [Ver repositorio](https://github.com/starlin056/punto-de-venta) |
-| 🧮 **RestaurantPOS** | Plataforma POS especializada para restaurantes. Permite gestionar mesas, comandas, ventas y reportes de forma eficiente y en tiempo real. | PHP · MySQL · JavaScript | [Ver repositorio](https://github.com/starlin056/RestaurantPOS) |
+| Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| 🍽️ **RESTAURANT-DORADO** | Plataforma web integral de gestión para restaurantes. Permite administrar reservas y una vista del menu,  | PHP · MySQL · JavaScript | 🌐 [Sitio web](https://www.restaurantdorado.net/) • 💻 [Repositorio](https://github.com/starlin056/RESTAURANT-DORADO) |
+| 🖥️ **EasyTurnos** | Sistema de gestión de turnos con pantallas de kiosko y display en tiempo real. Optimiza el flujo de atención al cliente en oficinas, clínicas o puntos de servicio. | PHP · JavaScript · HTML/CSS | 💻 [Repositorio](https://github.com/starlin056/easyturnos) |
+| 🧾 **Punto de Venta** | POS moderno y ágil para pequeños y medianos negocios. Permite controlar inventarios, caja, ventas y generar reportes detallados. | PHP · MySQL · Bootstrap | 💻 [Repositorio](https://github.com/starlin056/punto-de-venta) |
+| 🧮 **RestaurantPOS** | Sistema POS especializado para restaurantes. Gestiona mesas, comandas, ventas y reportes con una interfaz intuitiva. Ideal para operaciones rápidas y centralizadas. | PHP · MySQL · JavaScript | 💻 [Repositorio](https://github.com/starlin056/RestaurantPOS) |
 
 > 📌 Explora más proyectos y contribuciones en mi [perfil de GitHub](https://github.com/starlin056?tab=repositories).
 
