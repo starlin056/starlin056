@@ -56,7 +56,8 @@ Estos son algunos de mis proyectos más importantes, desarrollados con un enfoqu
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starlin056&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=starlin056&show_icons=true&theme=radical&cache_bust=1" />
+
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=starlin056&theme=radical" alt="GitHub Streak" />
   <br>
