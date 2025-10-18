@@ -9,7 +9,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 📍 Desde Punta Cana, República Dominicana  
-- 🎓 Estudiante de Ingeniería de Software  
+- 🎓 Estudiante de Lic. Informatica Gerencial  
 - 🧠 Desarrollador **Frontend y Backend**, apasionado por crear interfaces intuitivas y sistemas funcionales.  
 - 🌱 En constante aprendizaje: siempre explorando nuevas herramientas y mejores prácticas de desarrollo.  
 - 🧭 Objetivo: Convertirme en un profesional capaz de liderar proyectos escalables e innovadores.
