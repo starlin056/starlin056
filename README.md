@@ -74,7 +74,7 @@ Estos son algunos de mis proyectos más importantes, desarrollados con un enfoqu
 
 ## 🌐 Conecta conmigo
 
-- 📧 **Email:** starlin056@email.com  
+- 📧 **Email:** starlin056@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/starlin056](https://linkedin.com/in/starlin056)  
 - 🧰 **Portafolio:** 
 
